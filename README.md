@@ -11,6 +11,7 @@ For a detailed description of the project architecture, implementation, and resu
 ## 🧰 Technologies Used
 
 - **PerfSONAR** – For network performance monitoring
+- **JSON** – Used to define and schedule test configurations for PerfSONAR testpoints
 - **Python & Flask** – Used to receive and store test results (latency, throughput, RTT) automatically sent by PerfSONAR testpoints to the database
 - **MySQL** – For storing measurement data
 - **Grafana** – For data visualization and dashboards
